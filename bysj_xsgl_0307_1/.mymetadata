@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="bysj_xsgl_0307_1"
+  id="myeclipse.1457519661483"
+  context-root="/bysj_xsgl_0307_1"
+  j2ee-spec="5.0"
+  archive="bysj_xsgl_0307_1.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
